@@ -1,0 +1,22 @@
+.banner{
+    height: 55px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 45px;
+    background-color: #F55A5A;
+}
+
+.logo{
+    width: 24px;
+    height: 24px;
+    margin-right: 7px;
+}
+
+.banner> h2{
+    font-size: 14.461px; 
+    flex-shrink: 0;
+    font-weight: 500; 
+    color: white;
+}
